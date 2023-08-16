@@ -31,12 +31,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/manohySr/Front-end-mentor-part-2/assets/86122918/7b785f92-2472-4a18-b122-585145026507)
+![image](https://github.com/manohySr/Front-end-mentor-part-2/assets/86122918/27886235-2ea6-43b8-b546-909ce01f9b1c)
+![image](https://github.com/manohySr/Front-end-mentor-part-2/assets/86122918/a74e24a5-109a-471a-a6e1-fd105ebaa088)
+![image](https://github.com/manohySr/Front-end-mentor-part-2/assets/86122918/a85b5e95-80e2-426b-a1ff-a19751c4c8ea)
+![image](https://github.com/manohySr/Front-end-mentor-part-2/assets/86122918/3497c13a-f5e6-40bc-9148-d0dd7532a8ab)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/manohySr/Front-end-mentor-part-2
+- Live Site URL: https://front-end-mentor-part-2.netlify.app/
 
 ## My process
 
@@ -78,10 +82,10 @@ Working in responsive web dev
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - This given me the inspiration for the responsive image.
-- [Example resource 2](https://www.w3schools.com/css/css_text_spacing.asp) - This helped me with the line-height property
+- [Responsive image](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - This given me the inspiration for the responsive image.
+- [text sapcing](https://www.w3schools.com/css/css_text_spacing.asp) - This helped me with the line-height property
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@manohySr](https://www.frontendmentor.io/profile/manohySr)
+- Twitter - [@ManohySr](https://www.twitter.com/ManohySr)
